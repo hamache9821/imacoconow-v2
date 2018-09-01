@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs
+/bin
+/imacoconow-v2/scripts/json/2017
+/imacoconow-v2/scripts/geocode.txt
+/imacoconow-v2/scripts/imacoco-server
+/imacoconow-v2/scripts/res.txt
+/imacoconow-v2/scripts/test.js
+/imacoconow-v2/scripts/test2.js
+/imacoconow-v2/scripts/test.sh
+/imacoconow-v2/scripts/test2.sh
+/imacoconow-v2/scripts/test-nickname.sh
+/imacoconow-v2/wui/img/user.zip
+/imacoconow-v2/Imacoco-server
+/obj/Debug
